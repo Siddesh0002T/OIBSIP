@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/screenshots/top_banner.svg" alt="Pizza Delivery Platform Banner" width="100%" />
+</p>
+
 # 🍕 Pizza Delivery Full-Stack Platform
 ### **Oasis Infobyte Internship (OIBSIP) — Web Development & Designing Track**
 **Level 3 · Task 1: Advanced Full-Stack Application**
@@ -306,6 +310,10 @@ As part of **Step 6 of the OIBSIP Onboarding Checklist**, constructive peer revi
 ---
 
 ## 📝 License & Acknowledgments
-- Developed by **[Your Full Name Here]** for the **Oasis Infobyte Internship Program (OIBSIP)**.
+- Developed by **Siddhesh More** for the **Oasis Infobyte Internship Program (OIBSIP)**.
 - Special thanks to the Oasis Infobyte team for providing an industry-standard full-stack development prompt and learning track.
 - Powered by React, Node.js, Express, MongoDB, Razorpay, and Tailwind/CSS.
+
+<p align="center">
+  <img src="./assets/screenshots/end_banner.svg" alt="Siddhesh More - OIBSIP Banner" width="100%" />
+</p>
