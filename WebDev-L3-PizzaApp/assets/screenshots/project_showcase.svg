@@ -38,7 +38,7 @@
 
   <!-- Address Bar -->
   <rect x="250" y="30" width="700" height="24" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
-  <text x="600" y="46" class="url-text" text-anchor="middle">🔒 https://slice-pizza-platform.vercel.app/dashboard</text>
+  <text x="600" y="46" class="url-text" text-anchor="middle">🔒 http://localhost:5173/dashboard</text>
 
   <!-- WEBPAGE CONTENT AREA -->
   <g transform="translate(60, 90)">
