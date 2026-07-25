@@ -70,6 +70,16 @@ A production-grade, full-stack pizza ordering and inventory management platform 
 
 ---
 
+## 📸 Application Live Interface & UI Showcase
+
+Below is an interactive preview of the user dashboard, custom pizza builder wizard, and real-time order tracking interface:
+
+<p align="center">
+  <img src="./assets/screenshots/project_showcase.svg" alt="Pizza Delivery Platform UI Showcase" width="100%" />
+</p>
+
+---
+
 ## ✨ Key Features
 
 ### 👤 User Portal
