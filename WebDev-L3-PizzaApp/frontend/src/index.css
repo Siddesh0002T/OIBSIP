@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --color-pizza-red: #E63946;
+  --color-pizza-yellow: #F4A261;
+  --color-pizza-green: #2A9D8F;
+  --color-pizza-crust: #E9C46A;
+  --color-pizza-dark: #264653;
+  --font-sans: 'Inter', sans-serif;
+  --font-display: 'Poppins', sans-serif;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-orange-50);
+    color: var(--color-pizza-dark);
+    font-family: var(--font-sans);
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    font-weight: bold;
+  }
+}
