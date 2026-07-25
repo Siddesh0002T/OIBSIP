@@ -284,7 +284,7 @@ Upon successful submission and evaluation of this project, official completion r
 Below is the verified official internship offer letter granted to **Siddhesh More**:
 
 <p align="center">
-  <img src="./assets/certificates/Siddhesh%20More%20_Offer_Letter.svg" alt="Siddhesh More OIBSIP Offer Letter" width="100%" />
+  <img src="./assets/certificates/Siddhesh%20More%20_Offer_Letter.svg" alt="Siddhesh More OIBSIP Offer Letter" width="45%" />
 </p>
 
 ### 🎓 Internship Completion Certificate & Recommendation Letter
