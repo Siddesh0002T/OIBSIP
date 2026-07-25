@@ -280,32 +280,19 @@ As per the **Oasis Infobyte Master Onboarding Checklist (Section 1.2, Step 4)**,
 
 Upon successful submission and evaluation of this project, official completion records from Oasis Infobyte will be archived inside the [`./assets/certificates/`](./assets/certificates/) directory.
 
-```
-+-----------------------------------------------------------------------------------+
-|                                                                                   |
-|                   🌟 OASIS INFOBYTE INTERNSHIP CERTIFICATE 🌟                     |
-|                                                                                   |
-|         [ Drop your official completion certificate image into: ]                 |
-|                   ./assets/certificates/certificate.png                           |
-|                                                                                   |
-|  Certificate ID: [To Be Updated Upon Completion]                                  |
-|  Issue Date: [To Be Updated Upon Completion]                                      |
-|                                                                                   |
-+-----------------------------------------------------------------------------------+
-```
+### 📄 Official OIBSIP Internship Offer Letter
+Below is the verified official internship offer letter granted to **Siddhesh More**:
 
-```
-+-----------------------------------------------------------------------------------+
-|                                                                                   |
-|                   RECOMMENDATION & APPRECIATION LETTER                            |
-|                                                                                   |
-|       [ Drop your official recommendation letter image into: ]                    |
-|                ./assets/certificates/recommendation-letter.png                    |
-|                                                                                   |
-|  Granted by: Oasis Infobyte Evaluation Team                                       |
-|                                                                                   |
-+-----------------------------------------------------------------------------------+
-```
+<p align="center">
+  <img src="./assets/certificates/Siddhesh%20More%20_Offer_Letter.svg" alt="Siddhesh More OIBSIP Offer Letter" width="100%" />
+</p>
+
+### 🎓 Internship Completion Certificate & Recommendation Letter
+Official completion certificate and appreciation letter status:
+
+<p align="center">
+  <img src="./assets/certificates/certificate_coming_soon.svg" alt="Certificate Coming Soon" width="100%" />
+</p>
 
 ### 📜 How to View Verified Certificates
 Once issued, you can verify the authenticity of the internship completion certificate and recommendation letter by clicking the badge below or scanning the QR code on the official document:
