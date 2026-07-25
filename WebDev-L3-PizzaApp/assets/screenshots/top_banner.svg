@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="100%">
+  <defs>
+    <!-- Fonts -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Poppins:wght@600;700;800&amp;display=swap');
+      .logo-text { font-family: 'Poppins', sans-serif; font-weight: 800; font-size: 26px; fill: #264653; }
+      .header-tag { font-family: 'Inter', sans-serif; font-weight: 600; font-size: 14px; fill: #64748B; }
+      .banner-title { font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 34px; fill: #FFFFFF; }
+      .banner-subtitle { font-family: 'Inter', sans-serif; font-weight: 500; font-size: 18px; fill: #FFFFFF; opacity: 0.92; }
+      .btn-text { font-family: 'Inter', sans-serif; font-weight: 600; font-size: 15px; fill: #FFFFFF; }
+      .card-title { font-family: 'Inter', sans-serif; font-weight: 600; font-size: 15px; fill: #264653; }
+    </style>
+
+    <!-- Shadows -->
+    <filter id="soft-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="10" flood-color="#000000" flood-opacity="0.06" />
+    </filter>
+    <filter id="card-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#264653" flood-opacity="0.05" />
+    </filter>
+  </defs>
+
+  <!-- Main Cream Background (Matches Website Theme) -->
+  <rect width="1200" height="360" rx="24" fill="#FFF9F2" stroke="#EFE5DA" stroke-width="2" />
+
+  <!-- Top Navigation / Logo Bar -->
+  <g transform="translate(50, 45)">
+    <!-- Slice Logo Icon -->
+    <g transform="translate(0, -22)">
+      <circle cx="16" cy="16" r="16" fill="#E63946" />
+      <path d="M 9 20 L 23 12 M 11 15 L 21 15 M 13 24 L 19 8" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" opacity="0.8" />
+    </g>
+    <!-- Logo Text -->
+    <text x="42" y="3" class="logo-text">Slice</text>
+    
+    <!-- Right Header Tag -->
+    <text x="1100" y="0" class="header-tag" text-anchor="end">Oasis Infobyte Internship · Web Development Track</text>
+  </g>
+
+  <!-- Red Hero Banner Card (Inspired by 'Feeling Creative?' card) -->
+  <g transform="translate(50, 80)">
+    <rect width="1100" height="135" rx="18" fill="#E63946" filter="url(#soft-shadow)" />
+    
+    <!-- Subtle Background Circles in Red Card -->
+    <circle cx="1000" cy="-20" r="120" fill="#FFFFFF" opacity="0.08" />
+    <circle cx="920" cy="120" r="80" fill="#FFFFFF" opacity="0.06" />
+
+    <!-- Text Inside Red Banner -->
+    <text x="40" y="55" class="banner-title">BUILD &amp; DEPLOY</text>
+    <text x="40" y="92" class="banner-subtitle">Pizza Delivery Platform · Full-Stack MERN Application</text>
+
+    <!-- Orange/Yellow Action Button (Inspired by 'Build Your Own Pizza' button) -->
+    <g transform="translate(860, 42)">
+      <rect width="200" height="50" rx="12" fill="#F4A261" filter="url(#card-shadow)" />
+      <text x="100" y="31" class="btn-text" text-anchor="middle">Level 3 · Task 1 🍕</text>
+    </g>
+  </g>
+
+  <!-- Tech Stack Cards Row (Inspired by 'Recent Orders' / Minimal White Cards) -->
+  <g transform="translate(50, 245)">
+    <!-- React Card -->
+    <g transform="translate(0, 0)">
+      <rect width="168" height="65" rx="14" fill="#FFFFFF" stroke="#EAE0D5" stroke-width="1.5" filter="url(#card-shadow)" />
+      <circle cx="28" cy="32" r="14" fill="#61DAFB" fill-opacity="0.15" />
+      <text x="28" y="37" font-size="16" text-anchor="middle">⚛️</text>
+      <text x="54" y="38" class="card-title">React.js</text>
+    </g>
+    <!-- Node.js Card -->
+    <g transform="translate(186, 0)">
+      <rect width="168" height="65" rx="14" fill="#FFFFFF" stroke="#EAE0D5" stroke-width="1.5" filter="url(#card-shadow)" />
+      <circle cx="28" cy="32" r="14" fill="#339933" fill-opacity="0.15" />
+      <text x="28" y="37" font-size="16" text-anchor="middle">🟢</text>
+      <text x="54" y="38" class="card-title">Node.js</text>
+    </g>
+    <!-- MongoDB Card -->
+    <g transform="translate(372, 0)">
+      <rect width="168" height="65" rx="14" fill="#FFFFFF" stroke="#EAE0D5" stroke-width="1.5" filter="url(#card-shadow)" />
+      <circle cx="28" cy="32" r="14" fill="#47A248" fill-opacity="0.15" />
+      <text x="28" y="37" font-size="16" text-anchor="middle">🍃</text>
+      <text x="54" y="38" class="card-title">MongoDB</text>
+    </g>
+    <!-- JWT Auth Card -->
+    <g transform="translate(558, 0)">
+      <rect width="168" height="65" rx="14" fill="#FFFFFF" stroke="#EAE0D5" stroke-width="1.5" filter="url(#card-shadow)" />
+      <circle cx="28" cy="32" r="14" fill="#F4A261" fill-opacity="0.2" />
+      <text x="28" y="37" font-size="16" text-anchor="middle">🔑</text>
+      <text x="54" y="38" class="card-title">JWT Auth</text>
+    </g>
+    <!-- Socket.io Card -->
+    <g transform="translate(744, 0)">
+      <rect width="168" height="65" rx="14" fill="#FFFFFF" stroke="#EAE0D5" stroke-width="1.5" filter="url(#card-shadow)" />
+      <circle cx="28" cy="32" r="14" fill="#264653" fill-opacity="0.1" />
+      <text x="28" y="37" font-size="16" text-anchor="middle">⚡</text>
+      <text x="54" y="38" class="card-title">Socket.io</text>
+    </g>
+    <!-- Razorpay Card -->
+    <g transform="translate(930, 0)">
+      <rect width="170" height="65" rx="14" fill="#FFFFFF" stroke="#EAE0D5" stroke-width="1.5" filter="url(#card-shadow)" />
+      <circle cx="28" cy="32" r="14" fill="#3888FF" fill-opacity="0.15" />
+      <text x="28" y="37" font-size="16" text-anchor="middle">💳</text>
+      <text x="54" y="38" class="card-title">Razorpay</text>
+    </g>
+  </g>
+</svg>

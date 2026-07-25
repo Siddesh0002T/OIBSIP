@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./WebDev-L3-PizzaApp/assets/screenshots/top_banner.svg" alt="Pizza Delivery Platform Banner" width="100%" />
+</p>
+
 ## 🌐 OIBSIP — Oasis Infobyte Student Internship Program
 
 ### **Track: Web Development & Designing**
@@ -78,3 +82,7 @@ _Repository maintained for **Oasis Infobyte SIP (OIBSIP)** evaluation._
 git clone https://github.com/siddesh0002T/OIBSIP.git
 cd OIBSIP/WebDev-L3-PizzaApp
 ```
+
+<p align="center">
+  <img src="./WebDev-L3-PizzaApp/assets/screenshots/end_banner.svg" alt="Siddhesh More - OIBSIP Banner" width="100%" />
+</p>
