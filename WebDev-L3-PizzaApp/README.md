@@ -257,12 +257,6 @@ Watch the full end-to-end demonstration video of the Pizza Delivery Platform:
 - 📺 **YouTube Video Demo:** [Watch on YouTube](https://youtu.be/rzE2oGIEOsg)
 - 🔗 **LinkedIn Video Post:** [Watch on LinkedIn](https://www.linkedin.com/posts/siddhesh0002t_oasisinfobyte-webdevelopment-mern-ugcPost-7486852755895246848-mP4Y/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAD0WRJgBji117RwF9sYm7ag78FzDhaoXGWc&utm_campaign=copy_link)
 
-#### 🎬 Click the preview below to play the video on YouTube:
-<p align="center">
-  <a href="https://youtu.be/rzE2oGIEOsg" target="_blank">
-    <img src="https://img.youtube.com/vi/rzE2oGIEOsg/0.jpg" alt="Play Pizza Delivery Platform Video Demo on YouTube" width="80%" />
-  </a>
-</p>
 
 ### 🖼️ Application Screenshot Gallery
 
