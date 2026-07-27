@@ -251,8 +251,18 @@ npm run dev
 As per the **Oasis Infobyte Master Onboarding Checklist (Section 1.2, Step 4)**, a comprehensive end-to-end video walkthrough and visual proof of functional modules are presented below. All UI images are organized inside the [`./assets/screenshots/`](./assets/screenshots/) folder.
 
 ### 🎥 Video Demonstration Link
-> **Demo Walkthrough Video:** (https://www.linkedin.com/posts/siddhesh0002t_oasisinfobyte-webdevelopment-mern-ugcPost-7486852755895246848-mP4Y/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAD0WRJgBji117RwF9sYm7ag78FzDhaoXGWc&utm_campaign=copy_link)
-> *(Ensure the video starts with a 2-second static title card displaying your Full Name, Track, and Task Title).*
+
+Watch the full end-to-end demonstration video of the Pizza Delivery Platform:
+
+- 📺 **YouTube Video Demo:** [Watch on YouTube](https://youtu.be/rzE2oGIEOsg)
+- 🔗 **LinkedIn Video Post:** [Watch on LinkedIn](https://www.linkedin.com/posts/siddhesh0002t_oasisinfobyte-webdevelopment-mern-ugcPost-7486852755895246848-mP4Y/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAD0WRJgBji117RwF9sYm7ag78FzDhaoXGWc&utm_campaign=copy_link)
+
+#### 🎬 Click the preview below to play the video on YouTube:
+<p align="center">
+  <a href="https://youtu.be/rzE2oGIEOsg" target="_blank">
+    <img src="https://img.youtube.com/vi/rzE2oGIEOsg/0.jpg" alt="Play Pizza Delivery Platform Video Demo on YouTube" width="80%" />
+  </a>
+</p>
 
 ### 🖼️ Application Screenshot Gallery
 
