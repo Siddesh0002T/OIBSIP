@@ -157,7 +157,7 @@ Follow these step-by-step instructions to run the full-stack application locally
 ### Step 1: Clone the Repository & Navigate
 
 ```plaintext
-git clone https://github.com/YourGitHubUsername/OIBSIP.git
+git clone https://github.com/Siddesh0002T/OIBSIP.git
 cd OIBSIP/WebDev-L3-PizzaApp
 ```
 
