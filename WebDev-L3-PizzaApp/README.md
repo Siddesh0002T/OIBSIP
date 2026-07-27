@@ -251,9 +251,8 @@ npm run dev
 As per the **Oasis Infobyte Master Onboarding Checklist (Section 1.2, Step 4)**, a comprehensive end-to-end video walkthrough and visual proof of functional modules are presented below. All UI images are organized inside the [`./assets/screenshots/`](./assets/screenshots/) folder.
 
 ### 🎥 Video Demonstration Link
-
-\> **Demo Walkthrough Video:** `[Paste Your LinkedIn / YouTube / Google Drive Video Demo Link Here]`  
-\> _(Ensure the video starts with a 2-second static title card displaying your Full Name, Track, and Task Title)._
+> **Demo Walkthrough Video:** (https://www.linkedin.com/posts/siddhesh0002t_oasisinfobyte-webdevelopment-mern-ugcPost-7486852755895246848-mP4Y/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAD0WRJgBji117RwF9sYm7ag78FzDhaoXGWc&utm_campaign=copy_link)
+> *(Ensure the video starts with a 2-second static title card displaying your Full Name, Track, and Task Title).*
 
 ### 🖼️ Application Screenshot Gallery
 
