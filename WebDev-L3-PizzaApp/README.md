@@ -256,27 +256,14 @@ As per the **Oasis Infobyte Master Onboarding Checklist (Section 1.2, Step 4)**,
 
 ### 🖼️ Application Screenshot Gallery
 
-| **1\. User Dashboard & Menu** | **2\. Custom Pizza Builder Wizard** |
-| --- | --- |
-| `[Add Screenshot: User Menu]`   
-_Browse pre-defined artisan pizzas_   
-`![Dashboard](./assets/screenshots/dashboard.png)` | `[Add Screenshot: Pizza Builder]`   
-_4-step custom ingredient selection_   
-`![Builder](./assets/screenshots/pizza-builder.png)` |
-| **3\. Order Summary & Razorpay Checkout** | **4\. Real-Time Order Status Tracking** |
-| `[Add Screenshot: Checkout Modal]`   
-_Test mode Razorpay payment verification_   
-`![Checkout](./assets/screenshots/checkout.png)` | `[Add Screenshot: Live Order Status]`   
-_Lifecycle tracking: Received to Delivered_   
-`![Tracking](./assets/screenshots/live-tracking.png)` |
-| **5\. Admin Inventory Management Panel** | **6\. Admin Order Control Panel** |
-| `[Add Screenshot: Admin Inventory]`   
-_Real-time stock monitoring & adjustments_   
-`![Inventory](./assets/screenshots/admin-inventory.png)` | `[Add Screenshot: Admin Orders]`   
-_Update customer order lifecycles instantly_   
-`![Orders](./assets/screenshots/admin-orders.png)` |
+| **1. User Dashboard & Menu** | **2. Custom Pizza Builder Wizard** |
+| :---: | :---: |
+| <img src="./assets/screenshots/dashboard.png" alt="User Dashboard & Menu" width="100%" /><br>_Browse pre-defined artisan pizzas_ | <img src="./assets/screenshots/pizza-builder.png" alt="Custom Pizza Builder Wizard" width="100%" /><br>_4-step custom ingredient selection_ |
+| **3. Order Summary & Razorpay Checkout** | **4. Real-Time Order Status Tracking** |
+| <img src="./assets/screenshots/checkout.png" alt="Order Summary & Razorpay Checkout" width="100%" /><br>_Test mode Razorpay payment verification_ | <img src="./assets/screenshots/live-tracking.png" alt="Real-Time Order Status Tracking" width="100%" /><br>_Lifecycle tracking: Received to Delivered_ |
+| **5. Admin Inventory Management Panel** | **6. Admin Order Control Panel** |
+| <img src="./assets/screenshots/admin-inventory.png" alt="Admin Inventory Management Panel" width="100%" /><br>_Real-time stock monitoring & adjustments_ | <img src="./assets/screenshots/admin-orders.png" alt="Admin Order Control Panel" width="100%" /><br>_Update customer order lifecycles instantly_ |
 
-_(To render screenshots: save your screen images into_ `_WebDev-L3-PizzaApp/assets/screenshots/_` _and replace the bracketed text above with standard markdown image links)._
 
 ## 🏆 Internship Certificates & Achievements
 
